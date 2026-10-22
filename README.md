@@ -4,6 +4,10 @@ This repo contains all of the dialogue for the Night City Rivals mod!
 
 The dialogue in this repo is done via the in game texting interface, NOT face to face dialogue, so there's no need for voice acting.
 
+## Contributing
+
+Anyone can add lines, replies or new personalities through a pull request. Read [CONTRIBUTING.md](CONTRIBUTING.md) for how to do it, what makes a good line, and what won't be merged.
+
 ## Structure
 
 The repo is structured in a specific way that allows me to import the dialogue into the game. Doing something outside of this structure won't work, so don't do that.
