@@ -148,6 +148,9 @@ If you want a skill check (I don't use any of these yet), just add `[stat #]` to
 - V: I'm Mr.Cool [Cool 9]
 ```
 
+you can also use the `[streetkid]`,`[corpo]` and `[nomad]` tags as well to restrict them to that background.
+
+
 ## New Personalities
 
 If you want to create a new personality, just copy the template folder and fill in the lines. I'll be able to map that as well.
