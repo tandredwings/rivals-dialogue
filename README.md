@@ -134,7 +134,7 @@ Use faction instead to raise faction heat levels:
 V: Maelstrom sucks [faction+100]
 ```
 
-Note: I don't use faction at all at the moment as it is very easy to raise faction wide heat level through just regular gameplay.
+Note: I don't use faction at all as it is very easy to raise faction wide heat level through just regular gameplay.
 
 ## Dialogue Checks
 
